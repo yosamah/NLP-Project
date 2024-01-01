@@ -1,0 +1,11 @@
+pickle
+numpy
+pandas
+python-regex
+pyarabic
+keras
+farasa
+farasapy
+torch
+tensorflow
+gensim
